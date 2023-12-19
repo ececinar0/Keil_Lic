@@ -9,7 +9,8 @@ Then follow the steps below;
 
 2.![image](https://github.com/ececinar0/Keil_Lic/assets/115615388/564c1277-0274-4343-9eb2-834daeb9bc12)
 
-3.![image](https://github.com/ececinar0/Keil_Lic/assets/115615388/caa09713-5b56-460a-80a4-2dc353063bdb)
+3.![3](https://github.com/ececinar0/Keil_Lic/assets/115615388/bf37c79a-bedd-4d98-832c-fcfe1bff87ca)
+
 
 4.![image](https://github.com/ececinar0/Keil_Lic/assets/115615388/8f196879-cad7-4c88-98b4-9f054fdf3927)
 
@@ -25,7 +26,8 @@ Then follow the steps below;
 
 7.![image](https://github.com/ececinar0/Keil_Lic/assets/115615388/c5106f56-3843-4e69-8de3-ef7e8f73e6ea)
 
-8.![image](https://github.com/ececinar0/Keil_Lic/assets/115615388/49ad7329-d9c0-4cd0-8d49-3501fda990d3)
+8.![8](https://github.com/ececinar0/Keil_Lic/assets/115615388/8bbeb3a6-63bf-429b-a000-958ef4b2eb61)
+
 
 
 
@@ -33,7 +35,8 @@ Then follow the steps below;
 
 
 
-9.![image](https://github.com/ececinar0/Keil_Lic/assets/115615388/d383ecd4-3bbb-40b7-a187-0fcb97f57ff9)
+9.![9](https://github.com/ececinar0/Keil_Lic/assets/115615388/0d8eabdb-28d4-4f6d-89e3-739ede139674)
+
 
 
 
